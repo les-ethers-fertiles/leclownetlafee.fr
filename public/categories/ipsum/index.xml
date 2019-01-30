@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ipsum on Le Clown et la Fée</title>
+    <link>/categories/ipsum/index.xml</link>
+    <description>Recent content in Ipsum on Le Clown et la Fée</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LA TECHNIQUE ET L&#39;ADMINISTRATION</title>
+      <link>/pages/la-technique-et-l-administration/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>/pages/la-technique-et-l-administration/</guid>
+      <description>
+
+&lt;p&gt;Ici, vous trouverez l&amp;rsquo;ensemble des documents techniques et administratif. Ces document sont mis au libre. Ils peuvent donc être télécharger, modifier et tout le reste.
+Fiche technique :&lt;/p&gt;
+
+&lt;h2 id=&#34;les-documents-techniques&#34;&gt;Les documents techniques&lt;/h2&gt;
+
+&lt;p&gt;Ces documents seront bientôt disponibles.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
