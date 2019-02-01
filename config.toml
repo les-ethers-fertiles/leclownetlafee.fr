@@ -11,9 +11,9 @@ paginate = 10
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Spectacle le clown et la fée"
-	description = "Site internet sous "
-  siteTedua = "http://association-tedua.fr"
+	name = "Spectacle: Le clown et la fée"
+	description = "Le clown et la fée est un spectacle intime, interactif et musical pour rire ensemble. Il a été écrit pour les enfants et leur parents (à la fois) par Jonathan Dupui, metteur en scene et enseignant au sein de l'association Tedua."
+        siteTedua = "https://association-tedua.fr"
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
 
@@ -32,7 +32,7 @@ paginate = 10
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.png"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**[Le clown et la fée](http://localhost:1313/)**<br> est un spectacle pour les enfants<br> et leurs parents,<br> à la fois!"
+		bio = "**[Le clown et la fée](leclownetlafee.fr)**<br> est un spectacle pour les enfants<br> et leurs parents,<br> à la fois!"
 		# The icons will be shown if you enter your username
 		twitter = ""
 		github = ""
@@ -66,37 +66,37 @@ paginate = 10
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
 			title = "Les premiers instants."
-			description = "note de l'auteur : Offrir à l'observation du public, un contre pied, comme une invitation à voir la vie plus large que la joie qu'un clown offre spontanément et créer l'intrigue de la redécouverte de cette joie."
+			description = "Note de l'auteur : Offrir à l'observation du public, un contre-pied, comme une invitation à voir la vie plus large que la joie qu'un clown offre spontanément et créer l'intrigue de la redécouverte de cette joie."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
 			title = "L'appel à l'aide."
-			description = "Note de l'auteur : À la fin du monologue d'entrée, le clown lance l'appel à l'aide, déjà aidé par les enfants, ainsi faire connecter cette acte simple pour les enfants : de s'en remettre à l'autre. Celui que nous oublions à force de se penser plus important qu'autrui."
+			description = "Note de l'auteur : À la fin du monologue d'entrée, le clown lance l'appel à l'aide, déjà aidé par les enfants, et ainsi fait connecter cet acte simple pour les enfants : celui de s'en remettre à l'autre. Celui que nous oublions à force de se penser plus important qu'autrui."
 
 	  [[params.portfolio.gallery]]
 				image = "fulls/l'appel2.jpg"
 				thumb = "thumbs/l'appel.jpg"
 				title = "L'arrivée."
-				description = "Note de l'auteur : Il y aura toujours bien un autre. Certainement même, un autre qui était déjà là depuis le début. Il n'a toujours suffit qu'un peu d'aveu pour rendre possible l'invisible."
+				description = "Note de l'auteur : Il y aura toujours bien un autre. Certainement même, un autre qui était déjà là depuis le début. Il n'a toujours suffit que d'un aveu pour rendre possible l'invisible."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/explication 2.jpg"
 			thumb = "thumbs/explication.jpg"
 			title = "L'outillage à vivre."
-			description = "Note de l'auteur : De la même manière qu'on attrape un enfant dans une bêtise qu'il doit bien savoir quelque part comme bêtise. L'être détaché du monde, tel qu'est une fée dans le monde du clown, ne peut pas faire autrement que de nommé fort, en y mettant du punch."
+			description = "Note de l'auteur : De la même manière qu'on attrape un enfant dans une bêtise, qu'il doit bien savoir quelque part comme bêtise. L'être détaché du monde, telle que l'est une fée dans le monde du clown, ne peut pas faire autrement que de nommer fort, en y mettant du punch."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/premier rêve2.jpg"
 			thumb = "thumbs/premier rêve.jpg"
 			title = "Premier rêve."
-			description = "Que sont les rêves si ce n'est la certitude de l'illusion active. Proposer un environement où tout est illusion, où tout est rêve, n'est ce pas le bon moyen pour voir les choses avec recul. par exemple : qu'est ce qu'un objet?"
+			description = "Que sont les rêves si ce n'est la certitude de l'illusion active. Proposer un environnement où tout est illusion, où tout est rêve, n'est-ce pas le bon moyen pour voir les choses avec recul? Par exemple : qu'est-ce qu'un objet?"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/livrer l'expression2.jpg"
 			thumb = "thumbs/livrer l'expression.jpg"
 			title = "Livrer l'expression."
-			description = "Une des grandes oeuvres de la vie est de faire surgir l'expression. c'est peut être pour cela que le théâtre a traversé les âges. Qu'avons-nous donc à faire pour que cela se produise? Peut être que l'expression n'est pas à faire, peut être que cela ne fait que se recevoir."
+			description = "Une des grandes oeuvres de la vie est de faire surgir l'expression. C'est peut-être pour cela que le théâtre a traversé les âges. Qu'avons-nous donc à faire pour que cela se produise? Peut-être que l'expression n'est pas à faire, peut-être que cela ne fait que se recevoir."
 
 	#	[[params.portfolio.gallery]]
 	#		image = "fulls/06.jpg"
@@ -106,16 +106,16 @@ paginate = 10
 
 	[params.recentposts]
 		hide  = false
-		title = "Actualités"
+		title = "ACTUALITES"
 
 	[params.recentpages]
 		hide  = false
-		title = "Informations pratiques"
+		title = "INFORMATIONS PRATIQUES"
 
 	[params.contact]
 		hide  = false
 		title = "Pour nous contacter,"
-		content = "Plusieurs options s'offrent à vous ici, vous pouvez directement écrire ici, ou suivre le lien de l'adresse mail, mais aussi nous appeler ou nous envoyer un courrier."
+		content = "Plusieurs options s'offrent à vous ici: vous pouvez directement écrire ici, ou bien suivre le lien de l'adresse mail, mais aussi nous appeler ou nous envoyer un courrier (à l'intention d'Anne Lucie Dumay, coordinatrice)."
 
 		# This can be exact coordinates or a searchable address in google maps
 		gmaps_address = "44.9065, -0.5761"
