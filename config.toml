@@ -56,7 +56,7 @@ paginate = 10
 		content = "En errance, un clown triste apparait : il a perdu ses couleurs. Une fois sur scène, il se retrouve devant son public. Il s'explique, il n'a plus et ne se souvient même plus des couleurs. « Messieurs-dames les enfants et autres Papamamans » vont l'aider à appeler Madame la fée : « **car si nous sommes, nous pouvons.** » <br>Cette dernière ne lui donne pas le choix : pour qu’il puisse parcourir ses rêves et retrouver ses couleurs, il devra s’endormir et affronter ses peurs. Des voyages initiatiques au travers desquels, il devra apprendre et réapprendre le rythme, l’équilibre, l’écoute et le partage. <br>Ainsi, couleurs après couleurs il récupérera sa joie de vivre et continuera sa route…<br><br>"
 
 
-	[params.portfolio]
+		[params.portfolio]
 		hide  = false
 		title = "Images et Histoire"
 
@@ -74,7 +74,7 @@ paginate = 10
 			title = "L'appel à l'aide."
 			description = "Note de l'auteur : À la fin du monologue d'entrée, le clown lance l'appel à l'aide, déjà aidé par les enfants, et ainsi fait connecter cet acte simple pour les enfants : celui de s'en remettre à l'autre. Celui que nous oublions à force de se penser plus important qu'autrui."
 
-	  [[params.portfolio.gallery]]
+	 	 [[params.portfolio.gallery]]
 				image = "fulls/l'appel2.jpg"
 				thumb = "thumbs/l'appel.jpg"
 				title = "L'arrivée."
@@ -104,18 +104,20 @@ paginate = 10
 	#		title = "Lorem ipsum dolor."
 	#		description = "Lorem ipsum dolor sit amet."
 
-	[params.recentposts]
-		hide  = false
-		title = "ACTUALITES"
-
 	[params.recentpages]
 		hide  = false
 		title = "INFORMATIONS PRATIQUES"
 
+	[params.recentposts]
+		hide  = false
+		title = "ACTUALITES"
+
+	
+
 	[params.contact]
 		hide  = false
 		title = "Pour nous contacter,"
-		content = "Plusieurs options s'offrent à vous ici: vous pouvez directement écrire ici, ou bien suivre le lien de l'adresse mail, mais aussi nous appeler ou nous envoyer un courrier (à l'intention d'Anne Lucie Dumay, coordinatrice)."
+		content = "Plusieurs options s'offrent à vous: vous pouvez directement écrire ici, ou bien suivre le lien de l'adresse mail, mais aussi nous appeler ou nous envoyer un courrier (à l'intention d'Anne Lucie Dumay, coordinatrice)."
 
 		# This can be exact coordinates or a searchable address in google maps
 		gmaps_address = "44.9065, -0.5761"
@@ -150,11 +152,11 @@ paginate = 10
 
 # Menu links that appear on the left sidebar
 [[menu.main]]
-	name = "Actualités"
+	name = "ACTUALITES"
 	url  = "post/"
 	weight = 10
 
 [[menu.main]]
-	name = "Informations pratiques"
+	name = "INFORMATIONS PRATIQUES"
 	url  = "pages/"
 	weight = 0
