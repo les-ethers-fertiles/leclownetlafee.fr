@@ -1,13 +1,13 @@
 <section>
-    {{ with .Site.Params.recentpages.title }}
+    {{ with .Site.Params.recentposts.title }}
         <h2>{{ . }}</h2>
     {{ end }}
 
 	<div class="row">
         <br>
         <p>
-        <ol class="recent-pages">
-        {{ range first 5 (where .Data.Pages "Section" "posts") }}
+        <ol class="recent-posts">
+        {{ range first 5 (where .Data.Pages "Section" "pages") }}
             <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ end }}
         </ol>

@@ -104,15 +104,14 @@ paginate = 10
 	#		title = "Lorem ipsum dolor."
 	#		description = "Lorem ipsum dolor sit amet."
 
-	[params.recentpages]
-		hide  = false
-		title = "INFORMATIONS PRATIQUES"
 
 	[params.recentposts]
 		hide  = false
-		title = "ACTUALITES"
+		title = "INFORMATIONS PRATIQUES"
 
-	
+        [params.recentpages]
+		hide  = false
+		title = "ACTUALITES"
 
 	[params.contact]
 		hide  = false
