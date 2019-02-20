@@ -109,9 +109,7 @@ paginate = 10
 		hide  = false
 		title = "INFORMATIONS PRATIQUES"
 
-        [params.recentpages]
-		hide  = false
-		title = "ACTUALITES"
+
 
 	[params.contact]
 		hide  = false
