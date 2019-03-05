@@ -90,13 +90,13 @@ paginate = 10
 			image = "fulls/premier rêve2.jpg"
 			thumb = "thumbs/premier rêve.jpg"
 			title = "Premier rêve."
-			description = "Que sont les rêves si ce n'est la certitude de l'illusion active. Proposer un environnement où tout est illusion, où tout est rêve, n'est-ce pas le bon moyen pour voir les choses avec recul? Par exemple : qu'est-ce qu'un objet?"
+			description = "Note de l'auteur : Que sont les rêves si ce n'est la certitude de l'illusion active. Proposer un environnement où tout est illusion, où tout est rêve, n'est-ce pas le bon moyen pour voir les choses avec recul? Par exemple : qu'est-ce qu'un objet?"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/livrer l'expression2.jpg"
 			thumb = "thumbs/livrer l'expression.jpg"
 			title = "Livrer l'expression."
-			description = "Une des grandes oeuvres de la vie est de faire surgir l'expression. C'est peut-être pour cela que le théâtre a traversé les âges. Qu'avons-nous donc à faire pour que cela se produise? Peut-être que l'expression n'est pas à faire, peut-être que cela ne fait que se recevoir."
+			description = "Note de l'auteur : Une des grandes oeuvres de la vie est de faire surgir l'expression. C'est peut-être pour cela que le théâtre a traversé les âges. Qu'avons-nous donc à faire pour que cela se produise? Peut-être que l'expression n'est pas à faire, peut-être que cela ne fait que se recevoir."
 
 	#	[[params.portfolio.gallery]]
 	#		image = "fulls/06.jpg"
