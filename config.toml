@@ -12,7 +12,7 @@ paginate = 10
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Spectacle: Le clown et la fée"
-	description = "Le clown et la fée est un spectacle intime, interactif et musical pour rire ensemble. Il a été écrit pour les enfants et leur parents (à la fois) par Jonathan Dupui, metteur en scene et enseignant au sein de l'association Tedua."
+	description = "Le clown et la fée est un spectacle intime, interactif et musical pour rire ensemble. Il a été écrit pour les enfants âgés de 3 à 7 ans et leur parents (à la fois) par Jonathan Dupui, metteur en scene et enseignant au sein de l'association Tedua."
         siteTedua = "https://association-tedua.fr"
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -58,7 +58,7 @@ paginate = 10
 
 		[params.portfolio]
 		hide  = false
-		title = "Images et Histoire"
+		title = "Histoire en images :"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
@@ -107,14 +107,14 @@ paginate = 10
 
 	[params.recentposts]
 		hide  = false
-		title = "INFORMATIONS PRATIQUES"
+		title = "Informations pratiques :"
 
 
 
 	[params.contact]
 		hide  = false
-		title = "Pour nous contacter,"
-		content = "Plusieurs options s'offrent à vous: vous pouvez directement écrire ici, ou bien suivre le lien de l'adresse mail, mais aussi nous appeler ou nous envoyer un courrier (à l'intention d'Anne Lucie Dumay, coordinatrice)."
+		title = "Nous contacter :"
+		content = "Vous pouvez directement écrire ici, ou encore appeler, envoyer un email ou un courrier à l'intention d'ANNE LUCIE DUMAY, coordinatrice."
 
 		# This can be exact coordinates or a searchable address in google maps
 		gmaps_address = "44.9065, -0.5761"
