@@ -109,7 +109,9 @@ paginate = 10
 		hide  = false
 		title = "Informations pratiques :"
 
-
+[params.recentpages]
+		hide  = false
+		title = "Actualites : "
 
 	[params.contact]
 		hide  = false
@@ -150,7 +152,7 @@ paginate = 10
 # Menu links that appear on the left sidebar
 [[menu.main]]
 	name = "ACTUALITES"
-	url  = "post/"
+	url  = "posts/"
 	weight = 10
 
 [[menu.main]]
