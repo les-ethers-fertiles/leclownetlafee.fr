@@ -53,12 +53,12 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = " « Quelle est la couleur du ciel, s'il vous plaît? » "
-		content = "En errance, un clown triste apparait : il a perdu ses couleurs. Une fois sur scène, il se retrouve devant son public. Il s'explique, il n'a plus et ne se souvient même plus des couleurs. « Messieurs-dames les enfants et autres Papamamans » vont l'aider à appeler Madame la fée : « **car si nous sommes, nous pouvons.** » <br>Cette dernière ne lui donne pas le choix : pour qu’il puisse parcourir ses rêves et retrouver ses couleurs, il devra s’endormir et affronter ses peurs. Des voyages initiatiques au travers desquels, il devra apprendre et réapprendre le rythme, l’équilibre, l’écoute et le partage. <br>Ainsi, couleurs après couleurs il récupérera sa joie de vivre et continuera sa route…<br><br>"
+		content = "En errance, un clown triste apparait : il a perdu ses couleurs. <br>Une fois sur scène, il se retrouve devant son public. Il s'explique, il n'a plus et ne se souvient même plus des couleurs. «Messieurs-dames les enfants et autres Papamamans » vont l'aider à appeler Madame la fée : « car **si nous sommes, nous pouvons.** » <br>Cette dernière ne lui donne pas le choix : pour qu’il puisse **parcourir ses rêves et retrouver ses couleurs**, il devra s’endormir et affronter ses peurs. Des voyages initiatiques au travers desquels, il devra apprendre et **réapprendre le rythme, l’équilibre, l’écoute et le partage**. <br>Ainsi, couleurs après couleurs il récupérera sa joie de vivre et continuera sa route…<br><br>"
 
 
 		[params.portfolio]
 		hide  = false
-		title = "Histoire en images :"
+		title = "HISTOIRE EN IMAGES avec textes incrustés :"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
@@ -107,16 +107,16 @@ paginate = 10
 
 	[params.recentposts]
 		hide  = false
-		title = "Informations pratiques :"
+		title = "INFORMATIONS PRATIQUES :"
 
-[params.recentpages]
+        [params.recentpages]
 		hide  = false
-		title = "Actualites : "
+		title = "ACTUALITES : "
 
 	[params.contact]
 		hide  = false
-		title = "Nous contacter :"
-		content = "Vous pouvez directement écrire ici, ou encore appeler, envoyer un email ou un courrier à l'intention d'ANNE LUCIE DUMAY, coordinatrice."
+		title = "NOUS CONTACTER:"
+		content = "Vous pouvez directement écrire ici, ou encore appeler, envoyer un email ou un courrier à l'intention d'ANNE LUCIE DUMAY (Diffusion et Médiation culturelle) :"
 
 		# This can be exact coordinates or a searchable address in google maps
 		gmaps_address = "44.9065, -0.5761"
