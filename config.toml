@@ -115,7 +115,7 @@ paginate = 10
 
 	[params.contact]
 		hide  = false
-		title = "NOUS CONTACTER:"
+		title = "NOUS CONTACTER :"
 		content = "Vous pouvez directement écrire ici, ou encore appeler, envoyer un email ou un courrier à l'intention d'ANNE LUCIE DUMAY (Diffusion et Médiation culturelle) :"
 
 		# This can be exact coordinates or a searchable address in google maps
