@@ -12,7 +12,7 @@ paginate = 10
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Spectacle: Le clown et la fée"
-	description = "Le clown et la fée est un spectacle intime, interactif et musical pour rire ensemble. Il a été écrit pour les enfants et leur parents (à la fois) par Jonathan Dupui, metteur en scene et enseignant au sein de l'association Tedua."
+	description = "Le clown et la fée est un spectacle intime, interactif et musical pour rire ensemble. Il a été écrit pour les enfants âgés de 3 à 7 ans et leur parents (à la fois) par Jonathan Dupui, metteur en scene et enseignant au sein de l'association Tedua."
         siteTedua = "https://association-tedua.fr"
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -53,12 +53,12 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = " « Quelle est la couleur du ciel, s'il vous plaît? » "
-		content = "En errance, un clown triste apparait : il a perdu ses couleurs. Une fois sur scène, il se retrouve devant son public. Il s'explique, il n'a plus et ne se souvient même plus des couleurs. « Messieurs-dames les enfants et autres Papamamans » vont l'aider à appeler Madame la fée : « **car si nous sommes, nous pouvons.** » <br>Cette dernière ne lui donne pas le choix : pour qu’il puisse parcourir ses rêves et retrouver ses couleurs, il devra s’endormir et affronter ses peurs. Des voyages initiatiques au travers desquels, il devra apprendre et réapprendre le rythme, l’équilibre, l’écoute et le partage. <br>Ainsi, couleurs après couleurs il récupérera sa joie de vivre et continuera sa route…<br><br>"
+		content = "En errance, un clown triste apparait : il a perdu ses couleurs. <br>Une fois sur scène, il se retrouve devant son public. Il s'explique, il n'a plus et ne se souvient même plus des couleurs. «Messieurs-dames les enfants et autres Papamamans » vont l'aider à appeler Madame la fée : « car **si nous sommes, nous pouvons.** » <br>Cette dernière ne lui donne pas le choix : pour qu’il puisse **parcourir ses rêves et retrouver ses couleurs**, il devra s’endormir et affronter ses peurs. Des voyages initiatiques au travers desquels, il devra apprendre et **réapprendre le rythme, l’équilibre, l’écoute et le partage**. <br>Ainsi, couleurs après couleurs il récupérera sa joie de vivre et continuera sa route…<br><br>"
 
 
 		[params.portfolio]
 		hide  = false
-		title = "Images et Histoire"
+		title = "HISTOIRE EN IMAGES avec textes incrustés :"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
@@ -107,14 +107,16 @@ paginate = 10
 
 	[params.recentposts]
 		hide  = false
-		title = "INFORMATIONS PRATIQUES"
+		title = "INFORMATIONS PRATIQUES :"
 
-
+        [params.recentpages]
+		hide  = false
+		title = "ACTUALITES : "
 
 	[params.contact]
 		hide  = false
-		title = "Pour nous contacter,"
-		content = "Plusieurs options s'offrent à vous: vous pouvez directement écrire ici, ou bien suivre le lien de l'adresse mail, mais aussi nous appeler ou nous envoyer un courrier (à l'intention d'Anne Lucie Dumay, coordinatrice)."
+		title = "NOUS CONTACTER :"
+		content = "Vous pouvez directement écrire ici, ou encore appeler, envoyer un email ou un courrier à l'intention d'ANNE LUCIE DUMAY (Diffusion et Médiation culturelle) :"
 
 		# This can be exact coordinates or a searchable address in google maps
 		gmaps_address = "44.9065, -0.5761"
@@ -150,7 +152,7 @@ paginate = 10
 # Menu links that appear on the left sidebar
 [[menu.main]]
 	name = "ACTUALITES"
-	url  = "post/"
+	url  = "posts/"
 	weight = 10
 
 [[menu.main]]
