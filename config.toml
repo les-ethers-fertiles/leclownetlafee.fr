@@ -58,7 +58,7 @@ paginate = 10
 
 		[params.portfolio]
 		hide  = false
-		title = "HISTOIRE EN IMAGES avec textes incrustés :"
+		title = "HISTOIRE EN IMAGES:"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like

@@ -32,11 +32,15 @@ au sein du Collectif Jeune Public l'OASIS, aux côtés de 9 autres compagnies ve
 
 ### 3. PROGRAMMATION DU COLLECTIF L'OASIS
 
-[>> CLIQUER ICI pour lire le détail de la programmation quotidienne du COLLECTIF OASIS. <<](https://archive.org/details/festival-aurillac-prog-loasis-2019/page/n1)
+Voici le détail de la programmation quotidienne du COLLECTIF OASIS: 
 
-<a href="https://archive.org/embed/festival-aurillac-prog-loasis-2019" rel="programmation du Collectif OASIS"><img src="/images/affiche collectif oasis.png" alt="" width="420" height="600"/></a>
+<a href="https://www.kocoriko.fr/en/projects/l-oasis-collectif-jeune-public"><img src="/images/oasis1.png" alt="" width="420" height="600"/></a>
+<a href="https://www.facebook.com/events/centre-social-cap-blanc/collectif-loasis-aurillac-2019/458568528030071/" rel="programmation du Collectif OASIS"><img src="/images/oasis2.jpg" alt="" width="600" height="420"/></a>
+<a href="https://www.facebook.com/events/centre-social-cap-blanc/collectif-loasis-aurillac-2019/458568528030071/" rel="programmation du Collectif OASIS"><img src="/images/oasis3.jpg" alt="" width="420" height="600"/></a>
 
-Nos remerciements chaleureux vont vers Amandine Steiblin de [Virus PROD](http://www.virus-prod.com/) (Dordogne), qui a fait la mise en lien initiale, ainsi que vers [les membres du Collectif OASIS](https://www.kocoriko.fr/fr/projects/l-oasis-collectif-jeune-public), qui ont pris le temps de visiter notre site web et de recevoir les images et des textes de la création soigneusement disposés par l'auteur [(voir le profil de Jonathan par ici)](https://leclownetlafee.fr/pages/l-equipe/) sur la page d'accueil [leclownetlafee.fr](https://leclownetlafee.fr/).
+Ainsi que le [lien de l'évènement facebook Aurillac 2019](https://www.facebook.com/events/centre-social-cap-blanc/collectif-loasis-aurillac-2019/458568528030071/), et un [lien descriptif du collectif en 2019](https://www.kocoriko.fr/en/projects/l-oasis-collectif-jeune-public).
+
+Nos remerciements chaleureux vont vers Amandine Steiblin de [Virus PROD](http://www.virus-prod.com/) (Dordogne), qui a fait la mise en lien initiale, ainsi que vers [les membres du Collectif OASIS](https://www.kocoriko.fr/fr/projects/l-oasis-collectif-jeune-public), qui ont pris le temps de visiter notre site web et de recevoir les images et des textes de la création choisis par l'auteur [(voir le profil de Jonathan par ici)](https://leclownetlafee.fr/pages/l-equipe/) sur la page d'accueil du site [leclownetlafee.fr](https://leclownetlafee.fr/).
 
 ---
 [Habib Belaribi](https://co-actions.coop/nos-metiers/les-entrepreneur-e-s/hbelaribi/)   
