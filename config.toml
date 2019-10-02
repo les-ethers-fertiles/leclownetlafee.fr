@@ -56,43 +56,43 @@ paginate = 10
 		content = "En errance, un clown triste apparait : il a perdu ses couleurs. <br>Une fois sur scène, il se retrouve devant son public. Il s'explique, il n'a plus et ne se souvient même plus des couleurs. «Messieurs-dames les enfants et autres Papamamans » vont l'aider à appeler Madame la fée : « car **si nous sommes, nous pouvons.** » <br>Cette dernière ne lui donne pas le choix : pour qu’il puisse **parcourir ses rêves et retrouver ses couleurs**, il devra s’endormir et affronter ses peurs. Des voyages initiatiques au travers desquels, il devra apprendre et **réapprendre le rythme, l’équilibre, l’écoute et le partage**. <br>Ainsi, couleurs après couleurs il récupérera sa joie de vivre et continuera sa route…<br><br>"
 
 
-		[params.portfolio]
+	[params.portfolio]
 		hide  = false
 		title = "HISTOIRE EN IMAGES avec textes incrustés :"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
-		[[params.portfolio.gallery]]
+	[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
 			title = "Les premiers instants."
 			description = "Note de l'auteur : Offrir à l'observation du public, un contre-pied, comme une invitation à voir la vie plus large que la joie qu'un clown offre spontanément et créer l'intrigue de la redécouverte de cette joie."
 
-		[[params.portfolio.gallery]]
+	[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
 			title = "L'appel à l'aide."
 			description = "Note de l'auteur : À la fin du monologue d'entrée, le clown lance l'appel à l'aide, déjà aidé par les enfants, et ainsi fait connecter cet acte simple pour les enfants : celui de s'en remettre à l'autre. Celui que nous oublions à force de se penser plus important qu'autrui."
 
-	 	 [[params.portfolio.gallery]]
+	 [[params.portfolio.gallery]]
 				image = "fulls/l'appel2.jpg"
 				thumb = "thumbs/l'appel.jpg"
 				title = "L'arrivée."
 				description = "Note de l'auteur : Il y aura toujours bien un autre. Certainement même, un autre qui était déjà là depuis le début. Il n'a toujours suffit que d'un aveu pour rendre possible l'invisible."
 
-		[[params.portfolio.gallery]]
+	[[params.portfolio.gallery]]
 			image = "fulls/explication 2.jpg"
 			thumb = "thumbs/explication.jpg"
 			title = "L'outillage à vivre."
 			description = "Note de l'auteur : De la même manière qu'on attrape un enfant dans une bêtise, qu'il doit bien savoir quelque part comme bêtise. L'être détaché du monde, telle que l'est une fée dans le monde du clown, ne peut pas faire autrement que de nommer fort, en y mettant du punch."
 
-		[[params.portfolio.gallery]]
+	[[params.portfolio.gallery]]
 			image = "fulls/premier rêve2.jpg"
 			thumb = "thumbs/premier rêve.jpg"
 			title = "Premier rêve."
 			description = "Note de l'auteur : Que sont les rêves si ce n'est la certitude de l'illusion active. Proposer un environnement où tout est illusion, où tout est rêve, n'est-ce pas le bon moyen pour voir les choses avec recul? Par exemple : qu'est-ce qu'un objet?"
 
-		[[params.portfolio.gallery]]
+	[[params.portfolio.gallery]]
 			image = "fulls/livrer l'expression2.jpg"
 			thumb = "thumbs/livrer l'expression.jpg"
 			title = "Livrer l'expression."

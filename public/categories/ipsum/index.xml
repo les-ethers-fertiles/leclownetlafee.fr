@@ -2,37 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ipsum on Le Clown et la Fée</title>
-    <link>/categories/ipsum/index.xml</link>
+    <link>/categories/ipsum/</link>
     <description>Recent content in Ipsum on Le Clown et la Fée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/categories/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Dec 2018 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>LA TECHNIQUE ET L&#39;ADMINISTRATION</title>
       <link>/pages/la-technique-et-l-administration/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <pubDate>Mon, 31 Dec 2018 13:47:08 +0200</pubDate>
       
       <guid>/pages/la-technique-et-l-administration/</guid>
-      <description>
-
-&lt;h3 id=&#34;1-informations-generales&#34;&gt;1. INFORMATIONS GENERALES&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Durée du spectacle: 50 minutes&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Public: enfants de 3 à 7 ans ET leurs parents&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Temps d&amp;rsquo;installation: minimum 4 heures avant le début du spectacle&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;2-documents-techniques&#34;&gt;2. DOCUMENTS TECHNIQUES&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.cestlebouquet.fr/index.php/s/R8qFob5CcdTxbdA/download&#34;&gt;DOSSIER DE PRESENTATION &amp;ndash;&amp;gt; Téléchargeable en Cliquant ICI &amp;lt;&amp;ndash;&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;FICHE TECHNIQUE SON ET LUMIERES bientôt téléchargeable ici&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;L&amp;rsquo;ensemble des documents disponibles sur ce site web sont mis à la disposition de tous &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.fr&#34;&gt;sous licence libre CC by SA 3.0&lt;/a&gt;. Ils peuvent donc être téléchargés, modifiés, distribués, sans demander l&amp;rsquo;autorisation aux auteurs de ce site. En cas de ré-utilisation d&amp;rsquo;un de ces documents, nous serions reconnaissants que vous nous mentionniez dans les nouvelles versions que vous partagerez publiquement (&amp;ldquo;association-tedua.fr&amp;rdquo;), et, si le coeur vous en dit, que vous nous envoyiez un message avec vos retours -surtout s&amp;rsquo;ils sont critiques-, de manière à nous aider à toujours faire croître la qualité ce spectacle!&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>1. INFORMATIONS GENERALES  DUREE du spectacle: 50 minutes (+ temps de médiation culturelle encourage). PUBLIC: en priorité Jeune Public (3 à 7 ans) ET Familles. INSTALLATION: minimaliste (structure en bois transportée et installée par nos soins), accès à la scène et aux coulisses minimum 2 heures avant le début de chaque représentation.
+ TARIFICATION: 3 cachets (2 comédiens et 1 régisseur), 2 niveaux de tarification (Théâtres privés, Ecoles et Organisations à Caractère Social).</description>
     </item>
     
   </channel>

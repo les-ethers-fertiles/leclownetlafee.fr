@@ -1,63 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/les-derni%C3%A8res-nouvelles/</loc>
-    <lastmod>2018-12-19T13:36:59+01:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2019-10-02T18:40:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/pages/les-notes-d-intentions/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>/posts/representations-bordeaux-automne-2020/</loc>
+    <lastmod>2019-10-02T18:40:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/pages/la-technique-et-l-administration/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2019-10-02T18:40:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/pages/l-association/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>/posts/retours-sur-aurillac-2019/</loc>
+    <lastmod>2019-10-01T13:36:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/aurillac2019/</loc>
+    <lastmod>2019-05-01T13:36:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/article-journal-sud-ouest-representation-festival-lier/</loc>
+    <lastmod>2019-04-01T13:36:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/representation-a-la-mecs-godard-dans-le-cadre-du-festival-lier/</loc>
+    <lastmod>2019-03-19T13:36:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/lancement-du-site-web-le-clown-et-la-fee/</loc>
+    <lastmod>2019-01-29T13:36:59+01:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
+    <lastmod>2018-12-31T13:47:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/ipsum/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2018-12-31T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/pages/l-equipe/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-12-19T13:36:59+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/lorem/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
+    <loc>/pages/la-technique-et-l-administration/</loc>
+    <lastmod>2018-12-31T13:47:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>/pages/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2018-12-31T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2018-12-19T13:36:59+01:00</lastmod>
-    <priority>0</priority>
+    <loc>/pages/les-notes-d-intentions/</loc>
+    <lastmod>2018-12-30T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/lorem/</loc>
+    <lastmod>2018-12-30T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/l-equipe/</loc>
+    <lastmod>2018-12-29T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/l-association/</loc>
+    <lastmod>2018-12-28T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/representation-theatre-le-cerisier-bordeaux-bacalan/</loc>
+    <lastmod>2018-10-30T13:36:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

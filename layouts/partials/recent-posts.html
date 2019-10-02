@@ -7,7 +7,7 @@
         <br>
         <p>
         <ol class="recent-posts">
-        {{ range first 5 (where .Data.Pages "Section" "pages") }}
+        {{ range first 10 (where .Data.Pages "Section" "pages") }}
             <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ end }}
         </ol>
