@@ -1597,6 +1597,7 @@
 	}
 
 	p {
+		text-align: left;
 		margin: 0 0 2em 0;
 	}
 
@@ -1617,6 +1618,7 @@
 	}
 
 	h2 {
+		text-align:center;
 		font-size: 1.8em;
 		line-height: 3.5em;
 	}
@@ -1745,6 +1747,7 @@
 
 	header.major h2 {
 		font-size: 2em;
+		text-align: center;
 	}
 
 /* Form */
@@ -2465,7 +2468,7 @@
 /* Header */
 
 	#header {
-		background-color: #1f1815;
+		background-color: #000000;
 		background-attachment: scroll,								fixed;
 		background-image: url("images/overlay.png"), url("../images/bg.jpg");
 		background-position: top left,							top left;
@@ -2478,7 +2481,7 @@
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 35%;
+		width: 33%;
 	}
 
 		#header strong, #header b {
