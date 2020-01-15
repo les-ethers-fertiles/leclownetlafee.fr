@@ -43,9 +43,7 @@ paginate = 10
 		flickr = ""
 		linkedin = ""
 		copyright = [
-			"&copy; TEDUA",
-			"Design : Jo",
-			"Photos, vidéo : [RGB FOX](https://www.facebook.com/profile.php?id=100011568698447), Tristan Leyri"
+			"&copy; TEDUA | Design : Jo | Photos, vidéo : [RGB FOX](https://www.facebook.com/profile.php?id=100011568698447), Tristan Leyri."
 		]
 
 

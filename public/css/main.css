@@ -2472,7 +2472,7 @@
 		background-attachment: scroll,fixed;
 		background-image: url("images/overlay.png"), url("../images/bg.jpg");
 		background-position: top left,top left;
-		background-repeat: repeat,no-repeat;
+		/*background-repeat: repeat,no-repeat;*/
 		background-size: auto,auto 115%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
@@ -2494,10 +2494,10 @@
 
 		#header h1 {
 			color: rgba(255, 255, 255, 0.5);
-			font-size: 1.35em;
-			line-height: 1.75em;
+			font-size: 1.55em;
+			line-height: 1.35em;
 			margin: 0;
-			margin-left: 53%;
+			margin-left: 5%;
 		}
 
 		#header .image.avatar {
@@ -2508,12 +2508,10 @@
 /* Footer */
 
 	#footer {
-		bottom: 0;
-		left: 0;
-		padding: 0 4em 1em 0;
-		position: fixed;
-		text-align: right;
-		width: 35%;
+		margin-left: 50%;
+		max-width: 54em;
+		padding: 0em 0em 4em 4em;
+		width: calc(100% - 35%);
 	}
 
 		#footer .icons {
@@ -2521,11 +2519,11 @@
 		}
 
 			#footer .icons a {
-				color: rgba(255, 255, 255, 0.4);
+				color: #a2a2a2;
 			}
 
 		#footer .copyright {
-			color: rgba(255, 255, 255, 0.4);
+			color: #a2a2a2;
 			font-size: 0.8em;
 			list-style: none;
 			margin: 1em 0 0 0;
