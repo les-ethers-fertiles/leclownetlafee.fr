@@ -1,9 +1,6 @@
 +++
 banner = "banners/placeholder.png"
-categories = ["Ipsum"]
 date = "2018-12-31T13:47:08+02:00"
-menu = ""
-tags = []
 title = "LA TECHNIQUE ET L'ADMINISTRATION"
 +++
 

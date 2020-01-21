@@ -1,7 +1,5 @@
 +++
 banner = "banners/placeholder.png"
-menu = ""
-tags = []
 date = "2018-12-29T13:47:08+02:00"
 title = "L'ÉQUIPE"
 +++

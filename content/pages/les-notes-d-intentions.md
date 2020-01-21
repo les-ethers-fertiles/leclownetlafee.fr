@@ -1,9 +1,6 @@
 +++
 title = "LES NOTES D'INTENTIONS"
 date = "2018-12-30T13:07:31+02:00"
-tags = []
-categories = ["Lorem"]
-menu = ""
 banner = "banners/placeholder.png"
 +++
 
@@ -22,7 +19,7 @@ Ce clown, comme tous ceux qui en face de lui grandissent et respirent, est à la
 <br><br><br>
 ## Intention de mise en scène
 
-#### *par Jonathan Dupui  |  mettuer en scène du spectacle* <br><br>
+#### *par Jonathan Dupui  |  metteur en scène du spectacle* <br><br>
 L’objectif premier de cette mise en scène était de favoriser la rencontre entre les personnages et les enfants afin qu’ils puissent partager leurs sentiments.<br>
 Ainsi, les décors sont dépourvus de couleur, car nous nous trouvons dans l’atmosphère du clown. Le souffle d’air que procure la fée dans cet espace incolore permet au public comme au clown d’avoir un repère, un phare à suivre, un guide. L’espace scénique est constitué d’une structure derrière laquelle la fée est perchée. En avant-scène, un lit est disposé à la verticale, dans lequel le clown ira se coucher pour s’endormir et entrer dans les différents mondes. Le sommeil représente un lieu de passage d’un monde à un autre où tout devient possible. Enfin, sous un drap blanc, sommeillent les souvenirs du clown. Étape par étape, le clown retrouvera son costume originel portant la signification des ouvertures au monde qu'il récupère, et la responsabilité avec laquelle il aura à vivre.<br>
 Par le lien que font les enfants et les personnages, l’espace vide et les chants de la fée, le public est accompagné à travers un imaginaire libre, une rencontre authentique, et la nécessité de trouver ses valeurs pour guider le clown vers son salut.

@@ -1,9 +1,6 @@
 +++
 banner = "banners/placeholder.png"
-categories = ["Lorem"]
 date = "2018-12-28T13:39:46+02:00"
-menu = ""
-tags = []
 title = "L'ASSOCIATION"
 +++
 
