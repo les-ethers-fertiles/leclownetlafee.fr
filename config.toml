@@ -118,11 +118,11 @@ paginate = 10
 		# This can be exact coordinates or a searchable address in google maps
 		gmaps_address = "44.9065, -0.5761"
 		address = [
-			"22 rue Leydet",
-			"Apt n°9",
-			"33800 BORDEAUX"
+			"4 Cité de la Digue",
+			"avenue Gaston Cabannes",
+			"33270 FLOIRAC (Bordeaux Métropole)"
 		]
-		phone = "06-51-60-97-04"
+		phone = "06 15 60 97 04"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
@@ -148,11 +148,16 @@ paginate = 10
 
 # Menu links that appear on the left sidebar
 [[menu.main]]
+	name = "> RÉSERVEZ VOS PLACES"
+	url  = "https://www.helloasso.com/associations/tedua/evenements/le-clown-et-la-fee-fevrier-2020"
+	weight = 0
+
+[[menu.main]]
 	name = "> ACTUALITÉS"
 	url  = "posts/"
 	weight = 10
 
 [[menu.main]]
-	name = "> INFORMATIONS PRATIQUES"
+	name = "> À PROPOS DU SPECTACLE"
 	url  = "pages/"
 	weight = 0
