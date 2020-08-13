@@ -6,7 +6,7 @@ title = "L'ÉQUIPE"
 
 ## Julie Hercberg 
 
-![photo julie hercberg](/images/julie pour présentation.jpeg)
+![photo julie hercberg](/images/julie_pour_présentation.jpeg)
 
 **Choisir Julie pour jouer la fée.**<br>"Au-delà de la beauté de la rencontre faite avec elle.<br>Au-delà de ses capacités de jeu considérées par son public comme plus que certaines, offertes.<br>Quiconque la connaissant le sait : elle se tuerait si elle ne jouait pas.<br>Au-delà de toute cette écrasante vérité d'être bien face à une comédienne, livrée en pâture aux publics, comme consciente de la profonde bienveillance qu'à son tour, elle reçoit.<br>Au-delà donc... C'est son esthétique de l'humour, sa grandiosité de « la bêtise » clownesque, son enthousiasme pour rendre la fée (modèle illusoire de la féminité) une tortionnaire empathique. Le tout offert par sa joie du jeu à entrer dans le paradoxe de l'existence qui suggère que ce choix, c'est le bon."**- Jonathan Dupui**
 
@@ -25,7 +25,7 @@ Elle continue toujours de se former auprès des plus grands comme [Castle](https
 
 ## Thibaud Ghidone
 
-![photo thibaud ghidone](/images/thibaud pour présentation.jpg)
+![photo thibaud ghidone](/images/thibaud_pour_présentation.jpg)
 
 **Thibaud est clown.**    
 "Il est le collègue de toujours. Celui qui traverse avec l’autre tous les échecs et tous les râtés, les bons comme les mauvais. Avec ce spectacle, Thibaud offre toute sa sensibilité comme collé au clown qu’il est. Sa modestie donne à son clowm la tendresse nécessaire pour que la reconnaissance des enfants se produise, et celle des parents s'avoue. Thibaud, par sa présence, derrière le plus petit des masques, fait entendre le chant de la reconnaissance. Et encore aujourd'hui, je n'ai qu'un "merci" à lui adresser."**- Jonathan Dupui**
@@ -34,7 +34,7 @@ Elle continue toujours de se former auprès des plus grands comme [Castle](https
 
 ## Jonathan Dupui
 
-![photo jonathan dupui](/images/jonathan pour présentation.jpg)
+![photo jonathan dupui](/images/jonathan_pour_présentation.jpg)
 
 **Jonathan est l'auteur et metteur en scène du Clown et la Fée**.
 
