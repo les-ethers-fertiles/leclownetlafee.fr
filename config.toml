@@ -149,7 +149,7 @@ paginate = 10
 # Menu links that appear on the left sidebar
 [[menu.main]]
 	name = "> RÉSERVEZ VOS PLACES"
-	url  = "https://www.helloasso.com/associations/tedua/evenements/le-clown-et-la-fee-mars-2020"
+	url  = "https://www.helloasso.com/associations/tedua/evenements/le-clown-et-la-fee-1"
 	weight = 0
 
 [[menu.main]]
