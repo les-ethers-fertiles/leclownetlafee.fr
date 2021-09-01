@@ -1,19 +1,20 @@
 {{ "<!-- Header -->" | safeHTML }}
 <header id="header">
-	{{ if not .Site.Params.avatar.hide }}
-	<a target="_blank" href="{{ .Site.Params.siteTedua }}" class="image avatar"><img src="{{ .Site.BaseURL }}images/{{ .Site.Params.sidebar.avatar }}" alt="" /></a>
-	{{ end }}
-	{{ with .Site.Params.sidebar.bio }}
-		<h1>{{ . | markdownify }}</h1>
-	{{ end }}
+	
+	<a target="_blank" href="https://leclownetlafee.fr" class=""><img src="/images/logo-affiche.png" width="60%" height="auto" alt=""/></a>
+	<p style="text-align:right;">Un spectacle pour parents <br>et enfants (3-11 ans),<br>à tout âge.</p>
+
 
 	{{ with .Site.Menus.main }}
-		<nav id="sidebar">
-			<ul>
+	<nav id="sidebar">
+		<ul>
 			{{ range . }}
-				<li><strong><u><a href="{{ .URL | absURL }}">{{ .Name }}</a></u></strong></li>
+		<li><strong><a href="{{ .URL | absURL }}">{{ .Name }}</a></strong></li>
 			{{ end }}
-			</ul>
-		</nav>
+		</ul>
+	</nav>
+	{{ end }}
+	{{ if not .Site.Params.avatar.hide }}
+	<a target="_blank" href="https://leclownetlafee.fr" class=""><img src="/images/avatar.png" width="30%" height="auto" alt=""/></a>
 	{{ end }}
 </header>

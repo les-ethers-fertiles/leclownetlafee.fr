@@ -1,88 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>/posts/10-dec-a-l-auditorium-de-la-cite-du-vin/</loc>
+    <lastmod>2021-08-29T18:40:54+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-08-29T18:40:54+02:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-08-29T18:40:54+02:00</lastmod>
+  </url><url>
     <loc>/posts/150-spectateurs-au-pian-medoc-le-12-janvier-2020/</loc>
     <lastmod>2020-01-20T18:40:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-01-20T18:40:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-01-20T18:40:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/representations-bordeaux-automne-2020/</loc>
     <lastmod>2019-10-02T18:40:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/retours-sur-aurillac-2019/</loc>
     <lastmod>2019-10-01T13:36:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/aurillac2019/</loc>
     <lastmod>2019-05-01T13:36:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/article-journal-sud-ouest-representation-festival-lier/</loc>
     <lastmod>2019-04-01T13:36:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/representation-a-la-mecs-godard-dans-le-cadre-du-festival-lier/</loc>
     <lastmod>2019-03-19T13:36:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/lancement-du-site-web-le-clown-et-la-fee/</loc>
     <lastmod>2019-01-29T13:36:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/pages/la-technique-et-l-administration/</loc>
     <lastmod>2018-12-31T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/pages/</loc>
     <lastmod>2018-12-31T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/pages/les-notes-d-intentions/</loc>
     <lastmod>2018-12-30T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/pages/l-equipe/</loc>
     <lastmod>2018-12-29T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/pages/l-association/</loc>
     <lastmod>2018-12-28T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/representation-theatre-le-cerisier-bordeaux-bacalan/</loc>
     <lastmod>2018-10-30T13:36:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
   </url>
-  
 </urlset>

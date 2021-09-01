@@ -1577,7 +1577,7 @@
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		color: #787878;
+		color: #b54d69;
 		text-decoration: none;
 	}
 
@@ -1599,10 +1599,11 @@
 	p {
 		text-align: left;
 		margin: 0 0 2em 0;
+		color: #42484f;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #42484f;
 		font-weight: 400;
 		line-height: 1em;
 	}
@@ -1613,9 +1614,11 @@
 		}
 
 	h1 {
-		font-size: 2em;
+		font-size: 2.5em;
 		line-height: 1.5em;
+		color: #272a2d;
 	}
+	
 
 	h2 {
 		text-align:center;
@@ -2558,9 +2561,8 @@
 	}
 
 		#main > section {
-			border-top: solid 2px #efefef;
-			margin: 2em 0 0 0;
-			padding: 2em 0 0 0;
+			margin: 1.5em 0 0 0;
+			padding: 1.5em 0 0 0;
 		}
 
 			#main > section:first-child {
@@ -3161,3 +3163,7 @@
 	 font-size: 20px;
 	 line-height: 36px;
  }
+
+.bigger {
+		font-size: 1.5em;
+	}
