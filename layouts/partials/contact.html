@@ -1,4 +1,4 @@
-<!-- Three -->
+/<!-- Three -->
 <section>
 	{{ if isset .Site.Params.contact "email" }}
 		{{ with .Site.Params.contact.title }}<h2>{{ . }}</h2>{{ end }}
@@ -6,8 +6,9 @@
 	{{ end }}
 
 		<!--a target="_blank" href="https://leclownetlafee.fr" class=""><img src="/images/logo-noir.png" width="30%" height="auto" alt=""/></a-->
+	<img src="/images/logo-vert.png" class="logovert"/>
 
-	<br><br><br><br><p class="align-center">--- Production: <a href="https://www.association-tedua.fr/" target="_blank"> TEDUA</a> | Web Design: Jo | Photos : <a href="https://www.facebook.com/profile.php?id=100011568698447" target="_blank"> RGB FOX ---</a></p>
+	<br><br><p class="align-center">--- Production: <a href="https://www.association-tedua.fr/" target="_blank"> TEDUA</a> | Web Design: Jo | Photos : <a href="https://www.facebook.com/profile.php?id=100011568698447" target="_blank"> RGB FOX ---</a></p>
 	<!--div class="row" id="contact-form">
 		{{ if (isset .Site.Params.contact "email") | and (gt (len .Site.Params.contact.email) 0) }}
 		<div class="8u 12u$(small)">

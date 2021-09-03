@@ -3167,3 +3167,13 @@
 .bigger {
 		font-size: 1.5em;
 	}
+
+
+.logovert {
+	display: block;
+  	margin-left: 19em;
+  	margin-right: auto;
+  	width: 13%;
+        height: auto;
+	
+}
