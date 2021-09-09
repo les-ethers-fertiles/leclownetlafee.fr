@@ -1,0 +1,151 @@
+/* --------------------------
+ * global
+*/
+
+html {
+  font-size: 22px;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+	box-sizing: border-box;
+
+}
+
+body {
+  background-image: url(../images/fond.jpg);
+  background-color: black ;
+  background-repeat : no-repeat;
+  background-position: top 30vh center;
+  background-size: contain;
+  font-family: system-ui, sans-serif;
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px #1d1d24;
+}
+
+@media screen and (min-width: 700px) {
+  body{
+    background-size: cover;
+  }
+}
+
+p {
+  color: #ffffff;
+}
+
+a{
+  color:currentColor;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkcyan;
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 0.8rem;
+  color: white;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 1.1rem;
+  color: white;
+}
+
+ul {
+  list-style: none;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+}
+
+@media screen and (min-width: 700px) {
+	main{
+		width: 40%;
+	}
+}
+
+/* sections */
+
+section {
+  border-radius: 1rem;
+  margin-bottom: 3rem;
+}
+
+header {
+  margin-top: 2rem;
+  margin-bottom: 20vh;
+}
+
+header > img { 
+   max-width: 65%;
+   max-height: 45vh;
+   margin-bottom: 0.5rem;
+}
+
+
+@media screen and (min-width: 700px) {
+	header{
+		margin-bottom: 0;
+	}
+
+	header > img { 
+		max-width: initial;
+   	max-height: initial;
+		height: 12rem;
+	}
+}
+
+
+
+.logo img { 
+   max-width: 40%;
+}
+
+/* --------------------------
+ * call-to-action
+*/
+.calltoaction, .calltoaction2 {
+  border-radius: 1rem;
+  margin-bottom: 3rem;
+  padding: 1rem;
+  max-width: 18rem;
+  text-shadow: none;
+  display: flex;
+  flex-direction: column;
+  font-size: 1.2rem;
+}
+
+.calltoaction {
+  background-color: rgba(29, 35, 56, 0.65);
+}
+
+.calltoaction2 {
+  background-color: rgba(203, 78, 104, 0.6);
+}
+
+.calltoaction a, .calltoaction2 a {
+  text-decoration: underline;
+}
+
+.calltoaction a:first-child, .calltoaction2 a:first-child {
+  margin-bottom: 0.5rem;
+}
+
+section.equipe {
+  margin-bottom: 1.5rem;
+}
+
+.texte-contact {
+  font-size: 1.2em;
+}
+
