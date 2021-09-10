@@ -8,6 +8,12 @@ googleAnalytics = ""
 # Define how many posts should appear on a site
 paginate = 10
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
@@ -140,17 +146,13 @@ paginate = 10
 
 
 # Menu links that appear on the left sidebar
-[[menu.main]]
-	name = ""
-	url  = "https://www.helloasso.com/associations/tedua/evenements/le-clown-et-la-fee-1"
-	weight = 10
 
 [[menu.main]]
-	name = "> LE 10 DÉC, À LA CITÉ DU VIN"
-	url  = "posts/"
+	name = "LE 10 DÉCEMBRE.."
+	url  = "/"
 	weight = 0
 
 [[menu.main]]
-	name = "> À PROPOS"
-	url  = "pages/"
+	name = "À PROPOS"
+	url  = "posts/"
 	weight = 0

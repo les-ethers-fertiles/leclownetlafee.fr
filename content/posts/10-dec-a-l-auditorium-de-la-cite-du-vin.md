@@ -8,6 +8,10 @@ Le vendredi 10 décembre 2021 à 19h à l'Audirorium de la Cité du Vin, LE CLOW
 
 > Ouverture de la billetterie le vendredi 10 septembre à 19:00 sur helloasso.com .
 
+<a href="https://www.helloasso.com/associations/tedua/evenements/le-clown-et-la-fee-le-premier-des-fils-de-yeroelle" target="_blank"><img src="/images/helloasso10dec.png" alt="" width="100%" height="auto"></a>
+
+
+
 ---
 
 ### Questions sur le spectacle :
