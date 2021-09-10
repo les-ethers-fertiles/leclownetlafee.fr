@@ -54,37 +54,37 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 	[[params.portfolio.gallery]]
-			image = "fulls/"
+			image = "fulls/lespremiersinstants.jpg"
 			thumb = "thumbs/lespremiersinstants.jpg"
 			title = "Les premiers instants."
 			description = "Note de l'auteur : Offrir à l'observation du public, un contre-pied, comme une invitation à voir la vie plus large que la joie qu'un clown offre spontanément et créer l'intrigue de la redécouverte de cette joie."
 
 	[[params.portfolio.gallery]]
-			image = "fulls/"
+			image = "fulls/lappelalaide.jpg"
 			thumb = "thumbs/lappelalaide.jpg"
 			title = "L'appel à l'aide."
 			description = "Note de l'auteur : À la fin du monologue d'entrée, le clown lance l'appel à l'aide, déjà aidé par les enfants, et ainsi fait connecter cet acte simple pour les enfants : celui de s'en remettre à l'autre. Celui que nous oublions à force de se penser plus important qu'autrui."
 
 	 [[params.portfolio.gallery]]
-				image = "fulls/"
+				image = "fulls/larrivee.jpg"
 				thumb = "thumbs/larrivee.jpg"
 				title = "L'arrivée."
 				description = "Note de l'auteur : Il y aura toujours bien un autre. Certainement même, un autre qui était déjà là depuis le début. Il n'a toujours suffit que d'un aveu pour rendre possible l'invisible."
 
 	[[params.portfolio.gallery]]
-			image = "fulls/"
+			image = "fulls/loutillageavivre.jpg"
 			thumb = "thumbs/loutillageavivre.jpg"
 			title = "L'outillage à vivre."
 			description = "Note de l'auteur : De la même manière qu'on attrape un enfant dans une bêtise, qu'il doit bien savoir quelque part comme bêtise. L'être détaché du monde, telle que l'est une fée dans le monde du clown, ne peut pas faire autrement que de nommer fort, en y mettant du punch."
 
 	[[params.portfolio.gallery]]
-			image = "fulls/"
+			image = "fulls/premierreve.jpg"
 			thumb = "thumbs/premierreve.jpg"
 			title = "Premier rêve."
 			description = "Note de l'auteur : Que sont les rêves si ce n'est la certitude de l'illusion active. Proposer un environnement où tout est illusion, où tout est rêve, n'est-ce pas le bon moyen pour voir les choses avec recul? Par exemple : qu'est-ce qu'un objet?"
 
 	[[params.portfolio.gallery]]
-			image = "fulls/"
+			image = "fulls/livrerlexpression.jpg"
 			thumb = "thumbs/livrerlexpression.jpg"
 			title = "Livrer l'expression."
 			description = "Note de l'auteur : Une des grandes oeuvres de la vie est de faire surgir l'expression. C'est peut-être pour cela que le théâtre a traversé les âges. Qu'avons-nous donc à faire pour que cela se produise? Peut-être que l'expression n'est pas à faire, peut-être que cela ne fait que se recevoir."
