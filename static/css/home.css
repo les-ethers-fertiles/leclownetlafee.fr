@@ -3,7 +3,7 @@
 */
 
 html {
-  font-size: 22px;
+  font-size: 16px;
 }
 
 
@@ -19,7 +19,7 @@ body {
   background-color: black ;
   background-repeat : no-repeat;
   background-position: top 30vh center;
-  background-size: contain;
+  background-size: cover;
   font-family: system-ui, sans-serif;
   color: white;
   text-align: center;
@@ -27,8 +27,12 @@ body {
 }
 
 @media screen and (min-width: 700px) {
+  html {
+  font-size: 22px;
+}
   body{
     background-size: cover;
+    background-image: url(../images/fond2.jpg);
   }
 }
 
@@ -100,7 +104,7 @@ header > img {
 
 	header > img { 
 		max-width: initial;
-   	max-height: initial;
+   		max-height: initial;
 		height: 12rem;
 	}
 }
@@ -109,6 +113,7 @@ header > img {
 
 .logo img { 
    max-width: 40%;
+   filter: drop-shadow(1px 1px #1d1d24);
 }
 
 /* --------------------------
@@ -125,12 +130,24 @@ header > img {
   font-size: 1.2rem;
 }
 
-.calltoaction {
-  background-color: rgba(29, 35, 56, 0.65);
+.calltoaction2 {
+  background-color: rgba(203, 78, 104, 0.4);
 }
 
-.calltoaction2 {
-  background-color: rgba(203, 78, 104, 0.6);
+.calltoaction {
+  background-color: rgba(29, 35, 56, 0);
+}
+
+@media screen and (min-width: 700px) {
+	.calltoaction2 {
+  		background-color: rgba(29, 35, 56, 0);
+		text-align: left;
+	}
+	.calltoaction {
+  		background-color: rgba(203, 78, 104, 0.4);
+	}
+
+	
 }
 
 .calltoaction a, .calltoaction2 a {
@@ -141,9 +158,6 @@ header > img {
   margin-bottom: 0.5rem;
 }
 
-section.equipe {
-  margin-bottom: 1.5rem;
-}
 
 .texte-contact {
   font-size: 1.2em;

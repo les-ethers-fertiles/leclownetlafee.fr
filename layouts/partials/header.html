@@ -1,10 +1,15 @@
 {{ "<!-- Header -->" | safeHTML }}
 <header id="header">
-	
+
+	<section>
 	<a target="_blank" href="https://leclownetlafee.fr" class=""><img src="/images/logo-affiche.png" width="60%" height="auto" alt=""/></a>
+	</section>
+
+	<section>
 	<p style="text-align:right;">Un spectacle pour parents <br>et enfants (3-11 ans),<br>à tout âge.</p>
+	</section>
 
-
+	<section>
 	{{ with .Site.Menus.main }}
 	<nav id="sidebar">
 		<ul>
@@ -14,7 +19,11 @@
 		</ul>
 	</nav>
 	{{ end }}
+	</section>
+
+	<section>
 	{{ if not .Site.Params.avatar.hide }}
 	<a target="_blank" href="https://leclownetlafee.fr" class=""><img src="/images/avatar.png" width="20%" height="auto" alt=""/></a>
 	{{ end }}
+	</section>
 </header>
