@@ -1,5 +1,5 @@
 ---
-title: "JAN 2020 // 150 spectateurs au Pian Médoc le 12 janvier"
+title: "150 spectateurs au Pian Médoc le 12 janvier | JAN 2020"
 date: 2020-01-20T18:40:54+02:00
 draft: false
 ---

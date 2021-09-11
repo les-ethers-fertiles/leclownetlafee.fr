@@ -1,5 +1,5 @@
 ---
-title: "OCT 2018 // Une première devant enfants et parents à la fois au Théâtre  du Cerisier"
+title: "Une première devant enfants et parents à la fois au Théâtre  du Cerisier | OCT 2018"
 date: 2018-10-30T13:36:59+01:00
 draft: false
 ---

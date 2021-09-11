@@ -1,5 +1,5 @@
 ---
-title: "OCT 2019 // Ouverture de la billetterie pour Novembre"
+title: "Ouverture de la billetterie pour Novembre | OCT 2019"
 date: 2019-10-02T18:40:54+02:00
 draft: false
 ---

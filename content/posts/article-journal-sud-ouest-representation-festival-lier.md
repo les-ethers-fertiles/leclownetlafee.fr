@@ -1,5 +1,5 @@
 ---
-title: "AVR 2019 // Article dans le Journal Sud Ouest"
+title: "Article dans le Journal Sud Ouest | AVR 2019"
 date: 2019-04-01T13:36:59+01:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "MAI 2019 // Sélectionnés pour le Festival d'Aurillac 2019!"
+title: "Sélectionnés pour le Festival d'Aurillac 2019 | MAI 2019"
 date: 2019-05-01T13:36:59+01:00
 draft: false
 ---

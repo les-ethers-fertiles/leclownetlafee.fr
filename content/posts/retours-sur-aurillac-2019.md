@@ -1,5 +1,5 @@
 ---
-title: "AOÛT 2019 // Quatre représentations à l'OASIS - Festival d'Aurillac 2019"
+title: "Quatre représentations à l'OASIS - Festival d'Aurillac 2019 | AOÛT 2019"
 date: 2019-10-01T13:36:59+01:00
 ---
 

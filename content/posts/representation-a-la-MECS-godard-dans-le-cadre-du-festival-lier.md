@@ -1,5 +1,5 @@
 ---
-title: "MAR 2019 // Représentation à la MECS Godard de Bordeaux"
+title: "Représentation à la MECS Godard de Bordeaux | MAR 2019"
 date: 2019-03-19T13:36:59+01:00
 draft: false
 ---
@@ -8,7 +8,7 @@ La troupe du Clown et La Fee est très honorée d'avoir été invitée par [l'as
 
 Voici le [lien facebook de l'événement](https://www.facebook.com/cdc33/photos/a.406787056104250/2197482370368034/?type=3&theater).<br>
 <br>
-![post facebook - festival LIER - representation MECS Godard](/images/post facebook mecs godard.png)
+![post facebook - festival LIER - representation MECS Godard](/images/post-facebook-mecs-godard.png)
 
 
 ### CONTACT:

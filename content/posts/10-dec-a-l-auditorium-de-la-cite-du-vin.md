@@ -1,5 +1,5 @@
 ---
-title: "10 DÉC 2021 // À l'Auditorium de la Cité du Vin."
+title: "À l'Auditorium de la Cité du Vin | 10 DÉC 2021"
 date: 2021-08-29T18:40:54+02:00
 draft: false
 ---
