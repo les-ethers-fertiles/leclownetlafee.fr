@@ -141,7 +141,6 @@ header > img {
 @media screen and (min-width: 700px) {
 	.calltoaction2 {
   		background-color: rgba(29, 35, 56, 0);
-		text-align: left;
 	}
 	.calltoaction {
   		background-color: rgba(203, 78, 104, 0.4);
