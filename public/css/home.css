@@ -73,10 +73,14 @@ main {
 }
 
 @media screen and (min-width: 700px) {
-	main{
+	#firsthalf {
 		width: 40%;
 	}
+	#secondhalf {
+		margin-left: 60%;
+	}
 }
+
 
 /* sections */
 
