@@ -118,6 +118,7 @@ header > img {
 .logo img { 
    max-width: 40%;
    filter: drop-shadow(1px 1px #1d1d24);
+   margin-top: -2rem;
 }
 
 /* --------------------------
