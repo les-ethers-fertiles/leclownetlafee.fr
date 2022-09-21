@@ -116,11 +116,11 @@ paginate = 10
 
 
 [[menu.main]]
-	name = "LE 10 DÉCEMBRE.."
+	name = "PROCHAINES DATES"
 	url  = "/"
-	weight = 0
+	weight = 1
 
 [[menu.main]]
-	name = "À PROPOS"
+	name = "Parutions"
 	url  = "posts/"
-	weight = 0
+	weight = 2
